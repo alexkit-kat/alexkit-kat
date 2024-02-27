@@ -5,7 +5,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------
 ### Обо мне:
 
-На данный момент работаю продуктовым аналитиком.\
+В данный момент работаю продуктовым аналитиком.\
 Сейчас изучаю различные библиотеки Python, чтобы расширить свои навыки и возможности в анализе данных.\
 В репозиторий выкладываю свои рабочие задачи, задачи с курсов, уже реализованные и будущие проекты.
 
@@ -28,7 +28,8 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Jupyter.svg" alt="Jupyter" width="36" height="36"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" /></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/numpy_logo_icon_168071.png" width="36" height="36" alt="numpy" /></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-lightbg.png" width="36" height="36" alt="seaborn" /></a>    
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-lightbg.png" width="36" height="36" alt="seaborn" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://scipy.org/images/logo.svg" width="36" height="36" alt="scipy" /></a>  
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ### GitHub статистика:
