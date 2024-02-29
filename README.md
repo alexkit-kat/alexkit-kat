@@ -29,7 +29,20 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" /></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/numpy_logo_icon_168071.png" width="36" height="36" alt="numpy" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-lightbg.png" width="36" height="36" alt="seaborn" /></a>
-<a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://scipy.org/images/logo.svg" width="36" height="36" alt="scipy" /></a>  
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://scipy.org/images/logo.svg" width="36" height="36" alt="scipy" /></a>
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+### Пройденные курсы:
+| Курс                                                              | Дата прохождения  | Сертификат        |
+| ----------------------------------------------------------------- | ----------------- | ----------------- |
+| `karpov.courses` Симулятор A/B-тестов. Продвинутая версия         | 01/2024 - xx/2024 | [Ссылка] |
+| `Банк России. Финтех Хаб` Машинное обучение LITE: базовый уровень | 01/2024 - 02/2024 | [Ссылка] |
+| `Devtodev` Продуктовая аналитика. Введение                        | 02/2024 - 02/2024 | [Ссылка](https://legacy.edvice.pro/education/online-course/certificate/n44a0al_slW8pa69P2fy_Q/ "Devtodev. Введение") |
+| `Devtodev` Продуктовая аналитика. Привлечение и удержание         | 02/2024 - 02/2024 | [Ссылка](https://legacy.edvice.pro/education/online-course/certificate/l5oa0al_slW8paGxPW_29w/ "Devtodev. Привлечение и удержание") |
+| `Devtodev` Продуктовая аналитика. Монетизация пользователя        | 02/2024 - 02/2024 | [Ссылка](https://legacy.edvice.pro/education/online-course/certificate/n44a0al_slW8pa69P2fy_Q/ "Devtodev. Монетизация пользователя") |
+| `Devtodev` A/B-тесты в играх. от А до Б. Модуль 1                 | 02/2024 - xx/2024 | [Ссылка] |
+| `Devtodev` A/B-тесты в играх. от А до Б. Модуль 2                 | 02/2024 - xx/2024 | [Ссылка] |
+| `Devtodev` A/B-тесты в играх. от А до Б. Модуль 3                 | 02/2024 - xx/2024 | [Ссылка] |
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ### GitHub статистика:
