@@ -36,12 +36,12 @@
 | Курс                                                                               | Дата прохождения  | Сертификат        |
 | ---------------------------------------------------------------------------------- | ----------------- | ----------------- |
 | `karpov.courses` Симулятор A/B-тестов. Продвинутая версия                          | 01/2024 - xx/2024 | [Ссылка] |
-| `Банк России. Финтех Хаб` Машинное обучение LITE: базовый уровень                  | 01/2024 - 02/2024 | [Ссылка](https://docs.yandex.ru/docs/view?url=ya-mail%3A%2F%2F185492009652324451%2F1.2&name=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%9A%D0%B8%D1%82%D0%B0%D0%B5%D0%B2.pdf&uid=1612782890) |
+| `Банк России. Финтех Хаб` Машинное обучение LITE: базовый уровень                  | 01/2024 - 02/2024 | [Ссылка](https://docs.yandex.ru/docs/view?url=ya-mail%3A%2F%2F185492009652324451%2F1.2&name=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%9A%D0%B8%D1%82%D0%B0%D0%B5%D0%B2.pdf&uid=1612782890 "Машинное обучение LITE: базовый уровень") |
 | `Devtodev` Продуктовая аналитика. Введение                                         | 02/2024 - 02/2024 | [Ссылка](https://legacy.edvice.pro/education/online-course/certificate/n44a0al_slW8pa69P2fy_Q/ "Devtodev. Введение") |
 | `Devtodev` Продуктовая аналитика. Привлечение и удержание                          | 02/2024 - 02/2024 | [Ссылка](https://legacy.edvice.pro/education/online-course/certificate/l5oa0al_slW8paGxPW_29w/ "Devtodev. Привлечение и удержание") |
 | `Devtodev` Продуктовая аналитика. Монетизация пользователя                         | 02/2024 - 02/2024 | [Ссылка](https://legacy.edvice.pro/education/online-course/certificate/n44a0al_slW8pa69P2fy_Q/ "Devtodev. Монетизация пользователя") |
 | `Devtodev` Продуктовая аналитика. Взаимодействие с пользователем и прогнозирование | 02/2024 - 02/2024 | [Ссылка](https://legacy.edvice.pro/education/online-course/certificate/m50a0al_slW8paW0OWvz9g/ "Devtodev. Взаимодействие с пользователем") |
-| `Devtodev` A/B-тесты в играх. от А до Б. Модуль 1                                  | 02/2024 - xx/2024 | [Ссылка] |
+| `Devtodev` A/B-тесты в играх. от А до Б. Модуль 1                                  | 02/2024 - 03/2024 | [Ссылка](https://legacy.edvice.pro/education/online-course/certificate/k5ka0al_slW9paeyP2_28w/ "A/B-тесты в играх. от А до Б. Модуль 1") |
 | `Devtodev` A/B-тесты в играх. от А до Б. Модуль 2                                  | 02/2024 - xx/2024 | [Ссылка] |
 | `Devtodev` A/B-тесты в играх. от А до Б. Модуль 3                                  | 02/2024 - xx/2024 | [Ссылка] |
 
